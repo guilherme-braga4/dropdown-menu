@@ -3,7 +3,9 @@ Por: Guilherme Braga
 
 ## Tecnologias:
 Styled Components/CSS
+
 React
+
 JSON para popular os dados do Menu
 
 ## Como Rodar Localmente:
